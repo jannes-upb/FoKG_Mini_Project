@@ -1,7 +1,7 @@
 
 # Fact Checking Engine
 
-This repository contains a fact-checking engine that evaluates the veracity of a given fact (expressed as an RDF statement) with respect to a reference knowledge graph. The engine assigns a veracity score between `0` (false) and `+1` (true) to each fact.
+This repository contains a fact-checking engine that evaluates the veracity of a given fact (expressed as an RDF statement) with respect to a reference knowledge graph. The engine assigns a veracity score between `0` (false) and `1` (true) to each fact.
 
 The project leverages a pre-trained TransE model to embed knowledge graph entities and relations into a vector space, combined with a neural network classifier to predict truth values.
 
