@@ -106,7 +106,7 @@ cd fact-checking-engine
 
 - Ensure the following files are in the project directory:
   - `classifier/fact_checking_model.pt`: Trained classifier.
-  - `trans-e-embeddings/training_triples`: PyKEEN-compatible training triples file.
+  - `trans-e-embeddings/training_triples`: Training triples file.
   - `trans-e-embeddings/trained_model.pkl`: Pre-trained TransE model.
 
 ### 3. Run the Engine
