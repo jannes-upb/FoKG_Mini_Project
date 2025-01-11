@@ -140,4 +140,4 @@ The fact IRI is the IRI of the RDF statement, e.g.;
 
 http://dice-research.org/data/fb15k-237.ttl#0
 
-The predicate is always the same. The value between the two quotation marks is the result of your fact checking algorithm as double value.
+The predicate is always the same. The value between the two quotation marks is the result of the fact checking engine as double value.
